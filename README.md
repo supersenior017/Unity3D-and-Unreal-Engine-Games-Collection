@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="/Media/GamesCollage.gif" width="400" alt="Attack_1">
+  <img src="/Media/gamescollage.gif" width="600" alt="collage">
 </p>
 
 
